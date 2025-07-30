@@ -6,7 +6,7 @@ export default defineConfig({
     build: {
         lib: {
             entry: path.resolve(__dirname, 'src/index.ts'),
-            name: '@codexteam/icons',
+            name: '@e10/icons',
             fileName: 'index'
         },
         emptyOutDir: false,

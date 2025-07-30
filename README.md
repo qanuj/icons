@@ -12,15 +12,15 @@ No dependencies required. Free to use and share.
 Install the package with node package manager.
 
 ```sh
-npm install @codexteam/icons
+npm install @e10/icons
 
-yarn add @codexteam/icons
+yarn add @e10/icons
 ```
 
 And import required icons.
 
 ```js
-import { IconH1 } from '@codexteam/icons';
+import { IconH1 } from '@e10/icons';
 
 console.log(IconH1);
 ```
@@ -45,6 +45,7 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconAlignJustify](dist/icons/IconAlignJustify.svg) | `IconAlignJustify` |
 | ![IconAlignLeft](dist/icons/IconAlignLeft.svg) | `IconAlignLeft` |
 | ![IconAlignRight](dist/icons/IconAlignRight.svg) | `IconAlignRight` |
+| ![IconAttach](dist/icons/IconAttach.svg) | `IconAttach` |
 | ![IconBold](dist/icons/IconBold.svg) | `IconBold` |
 | ![IconBracketsVertical](dist/icons/IconBracketsVertical.svg) | `IconBracketsVertical` |
 | ![IconBrackets](dist/icons/IconBrackets.svg) | `IconBrackets` |
@@ -75,6 +76,7 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconHeart](dist/icons/IconHeart.svg) | `IconHeart` |
 | ![IconHidden](dist/icons/IconHidden.svg) | `IconHidden` |
 | ![IconHtml](dist/icons/IconHtml.svg) | `IconHtml` |
+| ![IconImage](dist/icons/IconImage.svg) | `IconImage` |
 | ![IconInstagram](dist/icons/IconInstagram.svg) | `IconInstagram` |
 | ![IconItalic](dist/icons/IconItalic.svg) | `IconItalic` |
 | ![IconLink](dist/icons/IconLink.svg) | `IconLink` |
@@ -85,6 +87,8 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconMarker](dist/icons/IconMarker.svg) | `IconMarker` |
 | ![IconMenuSmall](dist/icons/IconMenuSmall.svg) | `IconMenuSmall` |
 | ![IconMenu](dist/icons/IconMenu.svg) | `IconMenu` |
+| ![IconMessageSquare](dist/icons/IconMessageSquare.svg) | `IconMessageSquare` |
+| ![IconMusic](dist/icons/IconMusic.svg) | `IconMusic` |
 | ![IconPicture](dist/icons/IconPicture.svg) | `IconPicture` |
 | ![IconPlay](dist/icons/IconPlay.svg) | `IconPlay` |
 | ![IconPlus](dist/icons/IconPlus.svg) | `IconPlus` |
@@ -95,6 +99,7 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconReplace](dist/icons/IconReplace.svg) | `IconReplace` |
 | ![IconSave](dist/icons/IconSave.svg) | `IconSave` |
 | ![IconSearch](dist/icons/IconSearch.svg) | `IconSearch` |
+| ![IconShoppingBag](dist/icons/IconShoppingBag.svg) | `IconShoppingBag` |
 | ![IconStar](dist/icons/IconStar.svg) | `IconStar` |
 | ![IconStretch](dist/icons/IconStretch.svg) | `IconStretch` |
 | ![IconStrikethrough](dist/icons/IconStrikethrough.svg) | `IconStrikethrough` |
@@ -102,19 +107,22 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconTableWithoutHeadings](dist/icons/IconTableWithoutHeadings.svg) | `IconTableWithoutHeadings` |
 | ![IconTable](dist/icons/IconTable.svg) | `IconTable` |
 | ![IconText](dist/icons/IconText.svg) | `IconText` |
+| ![IconToggleLeft](dist/icons/IconToggleLeft.svg) | `IconToggleLeft` |
 | ![IconTranslate](dist/icons/IconTranslate.svg) | `IconTranslate` |
 | ![IconTrash](dist/icons/IconTrash.svg) | `IconTrash` |
 | ![IconTwitter](dist/icons/IconTwitter.svg) | `IconTwitter` |
 | ![IconUnderline](dist/icons/IconUnderline.svg) | `IconUnderline` |
 | ![IconUndo](dist/icons/IconUndo.svg) | `IconUndo` |
 | ![IconUnlink](dist/icons/IconUnlink.svg) | `IconUnlink` |
+| ![IconUpload](dist/icons/IconUpload.svg) | `IconUpload` |
 | ![IconUser](dist/icons/IconUser.svg) | `IconUser` |
 | ![IconUsersGroup](dist/icons/IconUsersGroup.svg) | `IconUsersGroup` |
+| ![IconVideo](dist/icons/IconVideo.svg) | `IconVideo` |
 | ![IconWarning](dist/icons/IconWarning.svg) | `IconWarning` |
 <!-- END TABLE_OF_ICONS -->
 
 ## How to add an icon
 
-- Request an icon you need via [an Issue](https://github.com/codex-team/icons/issues/new)
+- Request an icon you need via [an Issue](https://github.com/qanuj/icons/issues/new)
 - Or add your icon and open a PR
 
